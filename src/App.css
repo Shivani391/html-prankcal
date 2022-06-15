@@ -156,6 +156,7 @@ body {
   }
   75% {
     transform: translateX(-10px);
+    color: aquamarine;
   }
   100% {
     transform: translateX(-10px);
